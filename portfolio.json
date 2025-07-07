@@ -1,0 +1,162 @@
+{
+  "name": "Mitchel Camacho",
+  "label": "Student passionate about all things fintech",
+  "image_path": "img/prof-pic.jpeg",
+  "contact": {
+    "email": "MitchelACamacho@gmail.com",
+    "phone": "",
+    "location": "Honolulu, Hawaii"
+  },
+  "summary": "Hi! My name is Mitchel Camacho, and I am a student at the University of Hawaii at Manoa pursuing a degree in Finance and Management Information Systems.",
+  "url": "",
+  "social_links": [
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mitchel-ac-camacho/",
+      "svg_path": "img/linkedin.svg"
+    },
+    {
+       "label": "GitHub",
+      "url": "https://github.com/MitchelCC",
+      "svg_path": "img/github.svg"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Fantasy Performance Analyzer For NBA Players",
+      "summary": "A Python application that analyzes NBA player performance data to help make informed decisions for fantasy draft picks.",
+      "url": "https://github.com/MitchelCC/Personal-Projects/tree/72fadd0f17165345caf28e9386d7c911bdf41b21/NBA%20Fantasy",
+      "highlights": ["Python, Pandas, MatPlotlib, Seaborn, Data Visualization, Data Analysis, & Data Cleaning"],
+      "images": [
+        {
+          "img_path": "img/Console.png",
+          "caption": "Console Interface"
+        },
+        {
+          "img_path": "img/Top20.png",
+          "caption": "Top 20 Players by Position"
+        },
+        {
+          "img_path": "img/Advanced_M.png",
+          "caption": "Advanced Metrics with Visualizations"
+        }
+      ]
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Extern, TruBridge",
+      "position": "Data Analytics Externship",
+      "url": "",
+      "start_date": "May 2025",
+      "end_date": "Present",
+      "summary": "",
+      "highlights": [
+        "Conducted exploratory data analysis on publicly available datasets, examining the effects of vaccination (or lack thereof) on public health through variables like case counts, infection rates, and vaccination status to uncover meaningful insights.",
+        "Leveraged AI tools such as ChatGPT and Claude to guide data discovery, generate research prompts, and support the creation of visualizations, dashboards, and reports on the effects of having a vaccinated population."
+      ]
+    },
+    {
+      "company": "The Ritz-Carlton Residences, Waikiki Beach",
+      "position": "Turndown Attendant",
+      "url": "",
+      "start_date": "May 2024",
+      "end_date": "Present",
+      "summary": "",
+      "highlights": [
+        "Learning Coach for the Housekeeping Department. Responsible for training and equipping housekeepers with the skills and knowledge to perform world-class hospitality.",
+        "Established personal relationships with guests, contributing to positive guest feedback and loyalty.",
+	      "Solved guest problems effectively and autonomously.",
+        "Implemented solutions to improve room aesthetics and guest satisfaction."
+      ]
+    },
+    {
+      "company": "TikTok Shop",
+      "position": "E-Commerce Store Operator",
+      "url": "",
+      "start_date": "August 2024",
+      "end_date": "December 2024",
+      "summary": "",
+      "highlights": [
+        "Utilized social media and digital marketing tactics to build brand awareness, attract new customers, and drive traffic to my stores.", 
+        "Applied algorithm-driven tactics to refine ad performance, enhancing ad visibility to high-intent audiences and driving a significant increase in conversion rates.",
+        "Achieved over 200 sales within three months of operation, generating more than $2,000 in revenue." 
+      ]
+    },
+    {
+      "company": "MiO's Salon",
+      "position": "Social Media & Marketing Intern",
+      "url": "",
+      "start_date": "January 2022",
+      "end_date": "June 2022",
+      "summary": "",
+      "highlights": [
+        "Managed social media accounts and created marketing campaigns and ideas for viral content.",
+        "Boosted Social Media presence by 40,000+ followers throughout various platforms.",
+        "Created dashboards using Excel and Tableau to create important marketing insights."
+      ]
+    },
+    {
+      "company": "Hawaiian Telcom",
+      "position": "Brand Ambassador",
+      "url": "",
+      "start_date": "June 2021",
+      "end_date": "August 2022",
+      "summary": "",
+      "highlights": [
+        "Interacted with consumers, scheduled events, and promoted products, driving brand loyalty and sales.",
+        "Boosted brand visibility through strategic event planning and targeted promotions, increasing engagement.", 
+        "Collaborated with cross-functional teams for seamless operations and events, ensuring optimal product exposure.",
+        "Managed event logistics and consumer interactions, maintaining brand integrity and building relationships."
+
+      ]
+    }
+  ],
+  
+  "volunteer_experience": [
+    {
+      "organization": "Co-Cathedral of St. Theresa",
+      "position": "Volunteer",
+      "url": "",
+      "start_date": "2018",
+      "end_date": "2019",
+      "summary": "Assisted in various church activities and events, providing support to the community.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii at Manoa",
+      "location": "Honolulu, Hawaii, USA",
+      "url": "https://manoa.hawaii.edu/",
+      "degrees": [
+        "Bachelor of Business Adminstration in Finance",
+        "Bachelor of Business Adminstration in Management Information Systems"
+      ],
+      "honors": [
+        "Dean's List: Spring 2024, Fall 2025, Spring 2025",
+        "Delta Sigma Pi Business Fraternity, Rho Chi Chapter"
+      ],
+      "gpa_cumulative": "3.56",
+      "gpa_major": "3.85",
+      "graduation_date": "2026"
+    },
+    {
+      "institution": "Kapiolani Community College",
+      "location": "Honolulu, Hawaii, USA",
+      "url": "https://www.kapiolani.hawaii.edu/",
+      "degrees": [
+        "Associates of Arts in Liberal Arts"
+      ],
+      "honors": [
+        "Phi Theta Kappa Honor Society, Alpha Kappa Psi Chapter"
+      ],
+      "gpa_cumulative": "3.67",
+      "graduation_date": "May 2025"
+    }
+  ],
+  "skills": [],
+  "interests": [],
+  "languages": [],
+  "references": []
+}
